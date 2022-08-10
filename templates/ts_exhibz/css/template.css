@@ -698,16 +698,16 @@ ul.social-icons > li {
 /*			Counter Date
  ======================================*/
 .ts-counter-border .sppb-countdown-days {
-  background: url(../../../jabrutiteres/images/demo/circle01.svg);
+  background: url(../../../images/demo/circle01.svg);
 }
 .ts-counter-border .sppb-countdown-hours {
-  background: url(../../../jabrutiteres/images/demo/circle02.svg);
+  background: url(../../../images/demo/circle02.svg);
 }
 .ts-counter-border .sppb-countdown-minutes {
-  background: url(../../../jabrutiteres/images/demo/circle03.svg);
+  background: url(../../../images/demo/circle03.svg);
 }
 .ts-counter-border .sppb-countdown-seconds {
-  background: url(../../../jabrutiteres/images/demo/circle04.svg);
+  background: url(../../../images/demo/circle04.svg);
 }
 .ts-counter-border .sppb-countdown-days, .ts-counter-border .sppb-countdown-hours, .ts-counter-border .sppb-countdown-minutes, .ts-counter-border .sppb-countdown-seconds {
   background-attachment: initial;
@@ -1213,7 +1213,7 @@ ul.social-icons > li {
   display: inline-block;
   padding-right: 0.5rem;
   padding-left: 0.5rem;
-  content: "/jabrutiteres/";
+  content: "/";
 }
 .article-info > span a {
   color: #252525;
